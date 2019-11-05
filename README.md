@@ -1,6 +1,21 @@
-# GithubSearch
+# GitSearch
+This is a website which allows users to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
+#### 24 August 2019
+Samuel Odhiambo.
+
+## Setup/Installation Requirements
+* You can view the page at https://s-odhiambo.github.io/git-search/
+
+## Contact Information
+If you need clarification on any aspect, feel free to reach me on github s-odhiambo
+
+### License
+MIT License
+Copyright (c) 2019.
+
+## Angular Information
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
 ## Development server
 
