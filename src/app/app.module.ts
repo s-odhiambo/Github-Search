@@ -7,6 +7,7 @@ import { GitFormComponent } from './git-form/git-form.component';
 import { GitNavbarComponent } from './git-navbar/git-navbar.component';
 import { GitHomeComponent } from './git-home/git-home.component';
 import { GithomeComponent } from './githome/githome.component';
+import { RepositoriesComponent } from './repositories/repositories.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { GithomeComponent } from './githome/githome.component';
     GitFormComponent,
     GitNavbarComponent,
     GitHomeComponent,
-    GithomeComponent
+    GithomeComponent,
+    RepositoriesComponent
   ],
   imports: [
     BrowserModule,
