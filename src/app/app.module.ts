@@ -5,12 +5,16 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { GitFormComponent } from './git-form/git-form.component';
 import { GitNavbarComponent } from './git-navbar/git-navbar.component';
+import { GitHomeComponent } from './git-home/git-home.component';
+import { GithomeComponent } from './githome/githome.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     GitFormComponent,
-    GitNavbarComponent
+    GitNavbarComponent,
+    GitHomeComponent,
+    GithomeComponent
   ],
   imports: [
     BrowserModule,
